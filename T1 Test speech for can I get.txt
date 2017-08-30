@@ -1,0 +1,23 @@
+can i get a song
+// intent getasong
+// Result - start spreading the news
+
+
+Open test app
+// launch request
+//Result: You can tell Hello, World! to say Hello, World!
+
+Ask test app
+// launch request
+//Result: You can tell Hello, World! to say Hello, World!
+
+ask test app to say hello world
+// Intent Request
+//Result: Hello world
+
+
+ask test app say something
+// IntentRequest->saysomething -> blank
+
+ask test app sing to me
+// intentRequest->saysomething -> blank

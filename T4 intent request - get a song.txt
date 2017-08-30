@@ -1,0 +1,40 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.1ccdbf23-d503-4755-b3ba-d88f11815cfc",
+    "application": {
+      "applicationId": "amzn1.ask.skill.75ffdec7-b7f7-4f1c-a731-05dfc21c0585"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFU7RFS3X5PT7IEQI3PRQFSTSN3JQ6K6AORTYKCZN2BZCJ3P2KHUMYHEOK3LWVMBVKWO36BOKH5HCUB2I5ULBGCZYY5C3AHAZKCZDDC257CRJN3OJRIXUL2M5GBAW542V2ZPSCEOKVEBBV2R5W5XWUYMSUGS3SMEQ54V6AVARJDWHTP26LPUWIZWH67HPUPJ4VAPYEV6RUTCI5Y"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.06bb5c43-1fc3-456d-8e74-ee021590b5e1",
+    "intent": {
+      "name": "getasong",
+      "slots": {}
+    },
+    "locale": "en-US",
+    "timestamp": "2017-08-30T09:14:18Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.75ffdec7-b7f7-4f1c-a731-05dfc21c0585"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AFU7RFS3X5PT7IEQI3PRQFSTSN3JQ6K6AORTYKCZN2BZCJ3P2KHUMYHEOK3LWVMBVKWO36BOKH5HCUB2I5ULBGCZYY5C3AHAZKCZDDC257CRJN3OJRIXUL2M5GBAW542V2ZPSCEOKVEBBV2R5W5XWUYMSUGS3SMEQ54V6AVARJDWHTP26LPUWIZWH67HPUPJ4VAPYEV6RUTCI5Y"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}

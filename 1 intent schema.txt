@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "getasong"
+    },
+    {
+      "intent": "getafact"
+    },
+    {
+      "intent": "getacheer",
+    },
+  ]
+}
